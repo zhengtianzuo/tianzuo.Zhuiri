@@ -3,8 +3,9 @@ tianzuo.Zhuiri CHANGES
 
 This is a high-level summary of the most important changes.
 
-tianzuo.Zhuiri Releases
-----------------
+2.0.0.0
+-----------
+Code Refactoring
 
-tianzuo.Zhuiri 1.0.0.0
+1.0.0.0
 -----------
